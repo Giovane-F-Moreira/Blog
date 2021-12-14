@@ -9,7 +9,8 @@ https://giodevelopment.pythonanywhere.com/
 
 Para testar o site, baixe o repositorio, abra no Visual Studio Code
 
-![vscode](https://drive.google.com/file/d/1hPRs2rJMlFmk8x5u9m-BOJ7WNQ7sz4b3/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1hPRs2rJMlFmk8x5u9m-BOJ7WNQ7sz4b3/view?usp=sharing" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 Caso não tenha o python instalado, instale executado no terminal: 
 
