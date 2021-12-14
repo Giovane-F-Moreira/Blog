@@ -9,7 +9,7 @@ https://giodevelopment.pythonanywhere.com/
 
 Para testar o site, baixe o repositorio, abra no Visual Studio Code
 
-![vscode](/home/gio/Imagens/vscode.png)
+![vscode](https://drive.google.com/file/d/1hPRs2rJMlFmk8x5u9m-BOJ7WNQ7sz4b3/view?usp=sharing)
 
 Caso não tenha o python instalado, instale executado no terminal: 
 
